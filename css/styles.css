@@ -159,3 +159,37 @@ nav>ul>li>a {
 span{
   color: green;
 }
+#contact{
+  background-image: url('../images/bg8.png');
+  height: 500px;
+  width: 1200px;
+  margin-top: 60px;
+  margin-left: 50px;
+  border-radius: 10px;
+}
+.cont{
+  clear: both;
+  font-family: 'ZCOOL XiaoWei', serif;
+  font-size: 20px;
+  color: white;
+  padding: 30px;
+  text-align: center;
+}
+.column {
+  float: right;
+  width: 40%;
+  padding: 10px;
+  height: 300px;
+  box-sizing: border-box;
+  font-size: 20px;
+}
+.column p{
+  text-align:left;
+  font-size: 20px;
+}
+.social-media img{
+  height: 70px;
+  width: 70px;
+  padding: 30px;
+  border-radius: 30px;
+}
