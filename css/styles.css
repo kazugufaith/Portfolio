@@ -1,42 +1,49 @@
-body{
+body {
   font-family: 'ZCOOL XiaoWei', serif;
 }
-.top-page{
+
+.top-page {
   background-image: url('../images/bgg.jpg');
   background-size: cover;
   height: 480px;
   width: 100%;
 }
 
-.top-page1{
+.top-page1 {
   background-image: url('../images/bg4.png');
   background-size: cover;
-  height:480px;
+  height: 480px;
   width: 1250px;
 }
-.intro{
+
+.intro {
   text-align: center;
   color: white;
 }
+
 a {
   color: #4dff4e;
   text-decoration: none;
 }
-li{
-  display:inline-block;
+
+li {
+  display: inline-block;
 }
-nav ul{
+
+nav ul {
   padding-left: 300px;
   margin: 0px;
-  display:inline-block;
-  vertical-align:top;
+  display: inline-block;
+  vertical-align: top;
 }
-nav li{
-  display:inline-block;
+
+nav li {
+  display: inline-block;
   font-size: 22px;
   font-family: 'ZCOOL XiaoWei', serif;
   margin-left: 30px;
 }
+
 nav>ul>li>a {
   padding: 10px;
   margin-right: 0;
@@ -44,54 +51,65 @@ nav>ul>li>a {
   display: block;
   color: white;
 }
-.navig{
+
+.navig {
   float: left;
 }
-.container{
+
+.container {
   clear: both;
   padding: 120px;
 }
-.logo{
+
+.logo {
   height: 90px;
   width: 200px;
 }
-.intro-heading1{
+
+.intro-heading1 {
   font-size: 60px;
 }
-.intro-heading1 span{
+
+.intro-heading1 span {
   color: green;
 }
-.intro-heading2{
+
+.intro-heading2 {
   font-size: 50px;
   padding: 30px;
 }
-.mypic{
+
+.mypic {
   height: 400px;
   width: 420px;
   float: left;
   padding-right: 40px;
-
 }
-#about{
+
+#about {
   padding-left: 180px;
   padding-top: 20px;
   width: 1000px;
   height: 540px;
   margin-top: 50px;
 }
-.about-paragraph{
+
+.about-paragraph {
   font-size: 30px;
   padding-top: 30px;
   font-family: 'ZCOOL XiaoWei', serif;
 }
-.about-paragraph p{
+
+.about-paragraph p {
   font-size: 18px;
   font-family: 'ZCOOL XiaoWei', serif;
 }
-.about-paragraph span{
-  color:#4dff4e;
+
+.about-paragraph span {
+  color: #4dff4e;
 }
-.info{
+
+.info {
   font-size: 17px;
   border: 2px solid white;
   border-radius: 5px;
@@ -100,15 +118,17 @@ nav>ul>li>a {
   padding-top: 5px;
   padding-bottom: 5px;
   font-family: 'ZCOOL XiaoWei', serif;
-  background-color:lightblue;
+  background-color: lightblue;
   border-radius: 10px;
   color: white;
 }
-.info:hover{
+
+.info:hover {
   background-color: #4dff4e;
   color: black;
 }
-#education{
+
+#education {
   background-image: url('../images/bg8.png');
   background-size: cover;
   height: 150px;
@@ -120,12 +140,13 @@ nav>ul>li>a {
   font-family: 'ZCOOL XiaoWei', serif;
   width: 1000px;
 }
-#education h1{
+
+#education h1 {
   color: white;
   text-align: center;
 }
 
-#portfolio{
+#portfolio {
   background-image: url('../images/bg8.png');
   background-size: cover;
   height: 300px;
@@ -137,12 +158,13 @@ nav>ul>li>a {
   font-family: 'ZCOOL XiaoWei', serif;
   width: 1000px;
 }
-#portfolio h1{
+
+#portfolio h1 {
   color: white;
   text-align: center;
 }
 
-.edu{
+.edu {
   border: 1px solid white;
   background-color: white;
   box-shadow: 3px 3px #4dff4e;
@@ -151,15 +173,18 @@ nav>ul>li>a {
   width: 290px;
   float: left;
   margin: 10px;
-  text-align:left;
+  text-align: left;
 }
-.edu h1{
+
+.edu h1 {
   color: black;
 }
-span{
+
+span {
   color: green;
 }
-#contact{
+
+#contact {
   background-image: url('../images/bg8.png');
   height: 500px;
   width: 1200px;
@@ -167,7 +192,8 @@ span{
   margin-left: 50px;
   border-radius: 10px;
 }
-.cont{
+
+.cont {
   clear: both;
   font-family: 'ZCOOL XiaoWei', serif;
   font-size: 20px;
@@ -175,6 +201,7 @@ span{
   padding: 30px;
   text-align: center;
 }
+
 .column {
   float: right;
   width: 40%;
@@ -183,16 +210,19 @@ span{
   box-sizing: border-box;
   font-size: 20px;
 }
-.column p{
-  text-align:left;
+
+.column p {
+  text-align: left;
   font-size: 20px;
 }
-.social-media img{
+
+.social-media img {
   height: 70px;
   width: 70px;
   padding: 30px;
   border-radius: 30px;
 }
+
 input[type=text], textarea {
   width: 90%;
   padding: 12px;
@@ -201,8 +231,8 @@ input[type=text], textarea {
   margin-bottom: 16px;
   border-radius: 15px;
   background-color: #00fd67;
-
 }
+
 input[type=email], textarea {
   width: 90%;
   padding: 12px;
@@ -211,7 +241,6 @@ input[type=email], textarea {
   margin-bottom: 16px;
   border-radius: 15px;
   background-color: #00fd67;
-
 }
 
 input[type=submit] {
@@ -222,6 +251,7 @@ input[type=submit] {
   width: 100px;
   border-radius: 5px;
 }
+
 input[type=reset] {
   background-color: #00fd67;
   color: white;
@@ -229,12 +259,12 @@ input[type=reset] {
   border: none;
   width: 100px;
   border-radius: 5px;
-
 }
 
 input[type=submit]:hover {
   background-color: #565655;
 }
+
 input[type=reset]:hover {
   background-color: #565655;
 }
@@ -245,21 +275,25 @@ input[type=reset]:hover {
   text-align: left;
   border-radius: 5px;
 }
-#follow{
+
+#follow {
   text-align: center;
   margin-top: 60px;
   margin-left: 100px;
   font-size: 40px;
   width: 1000px;
 }
-#follow p{
+
+#follow p {
   font-size: 18px;
 }
-.portimages img{
+
+.portimages img {
   height: 300px;
-  width : 300px;
+  width: 300px;
   border-radius: 10px;
 }
-.fimages{
+
+.fimages {
   margin-left: 10px;
 }
