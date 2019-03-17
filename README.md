@@ -10,11 +10,11 @@ Faith Kazungu
 2. CSS
 3. Logojoy
 ## Setup instructions
-    1. Simply type this url in your browser
+    1. Simply type this url in your browser https://kazugufaith.github.io/Portfolio
     2. Secondly Navigate through the website and if interested in my work simply just contact me through the contact form in the contact section.
 
 ## Live Link
-
+https://kazugufaith.github.io/Portfolio
 ## CONTACTS
     1. faithmugesia@gmail.com
     2. +(254)798-57-86-13
