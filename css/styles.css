@@ -47,3 +47,28 @@ nav>ul>li>a {
 .navig{
   float: left;
 }
+.container{
+  clear: both;
+  padding: 120px;
+}
+.logo{
+  height: 90px;
+  width: 200px;
+}
+.intro-heading1{
+  font-size: 60px;
+}
+.intro-heading1 span{
+  color: green;
+}
+.intro-heading2{
+  font-size: 50px;
+  padding: 30px;
+}
+.mypic{
+  height: 400px;
+  width: 420px;
+  float: left;
+  padding-right: 40px;
+
+}
