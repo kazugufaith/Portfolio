@@ -1,0 +1,20 @@
+body{
+  font-family: 'ZCOOL XiaoWei', serif;
+}
+.top-page{
+  background-image: url('../images/bgg.jpg');
+  background-size: cover;
+  height: 480px;
+  width: 100%;
+}
+
+.top-page1{
+  background-image: url('../images/bg4.png');
+  background-size: cover;
+  height:480px;
+  width: 1250px;
+}
+.intro{
+  text-align: center;
+  color: white;
+}
