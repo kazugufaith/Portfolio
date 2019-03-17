@@ -72,3 +72,39 @@ nav>ul>li>a {
   padding-right: 40px;
 
 }
+#about{
+  padding-left: 180px;
+  padding-top: 20px;
+  width: 1000px;
+  height: 540px;
+  margin-top: 50px;
+}
+.about-paragraph{
+  font-size: 30px;
+  padding-top: 30px;
+  font-family: 'ZCOOL XiaoWei', serif;
+}
+.about-paragraph p{
+  font-size: 18px;
+  font-family: 'ZCOOL XiaoWei', serif;
+}
+.about-paragraph span{
+  color:#4dff4e;
+}
+.info{
+  font-size: 17px;
+  border: 2px solid white;
+  border-radius: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-family: 'ZCOOL XiaoWei', serif;
+  background-color:lightblue;
+  border-radius: 10px;
+  color: white;
+}
+.info:hover{
+  background-color: #4dff4e;
+  color: black;
+}
